@@ -1,0 +1,16 @@
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\bin\Debug\Tic-Tac-Toe Spiel.exe.config
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\bin\Debug\Tic-Tac-Toe Spiel.exe
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\bin\Debug\Tic-Tac-Toe Spiel.pdb
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic-Tac-Toe Spiel.csproj.AssemblyReference.cache
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic-Tac-Toe Spiel.csproj.SuggestedBindingRedirects.cache
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\MainWindow.g.cs
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\App.g.cs
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic-Tac-Toe Spiel_MarkupCompile.cache
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic-Tac-Toe Spiel_MarkupCompile.lref
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\MainWindow.baml
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic-Tac-Toe Spiel.g.resources
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic_Tac_Toe_Spiel.Properties.Resources.resources
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic-Tac-Toe Spiel.csproj.GenerateResource.cache
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic-Tac-Toe Spiel.csproj.CoreCompileInputs.cache
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic-Tac-Toe Spiel.exe
+C:\Users\luca-\Desktop\Projects\C#\Tic-Tac-Toe Spiel\obj\Debug\Tic-Tac-Toe Spiel.pdb
